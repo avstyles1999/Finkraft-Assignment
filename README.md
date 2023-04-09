@@ -4,5 +4,4 @@ Built a resume-parser
 Required packages
 1) pdfminer
 2) spacy
-3) requests
-4) nltk
+3) nltk
